@@ -1,0 +1,10 @@
+{
+  "name": "Carrera Matemática A vs B",
+  "description": "Recurso Educativo Digital Abierto (REDA) gamificado para duelos matemáticos de 2 jugadores: modo enfrentado 180° en mesa y lado a lado en pizarras interactivas con multitouch y sintetizador de audio.",
+  "requestFramePermissions": [
+    "fullscreen"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
